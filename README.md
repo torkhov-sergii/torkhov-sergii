@@ -17,7 +17,6 @@ I have a lot of experience working on the following technologies
  
 [![LinkedIn](https://img.shields.io/badge/linkedin-f0f0f0?&style=for-the-badge&logo=linkedin&logoColor=white&color=0e76a8)](https://www.linkedin.com/in/sergii-torkhov/)
 [![GMail](https://img.shields.io/badge/gmail-f0f0f0?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:torhov.s@gmail.com) 
-[![Telegram](https://img.shields.io/badge/telegram-f0f0f0?&style=for-the-badge&logoColor=white&logo=telegram)](https://t.me/Sergii_Torkhov)
 
 
 The languages and tools with which we spend our time together are:
